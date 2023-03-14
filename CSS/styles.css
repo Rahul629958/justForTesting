@@ -1,0 +1,163 @@
+body {
+    margin: 0;
+    color: #40514E;
+    text-align: center;
+    line-height: 2;
+    font-family: 'merrywether',serif;
+    font-size: 1.2rem;
+
+}
+h1{
+    font-family: 'sacramento',sans-serif;
+    font-size: 5.92rem;
+    margin: 10% auto 0 auto;
+    color: #66BFBF;
+}
+h2
+{
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    
+}
+h3{
+    color: #11999E;
+}
+#proText
+{
+    margin-top: 0;
+    
+}
+a
+{
+    color: #11999E;
+}
+
+.upperDiv
+{
+    background-color: #E4F9F5;
+    padding-top: 10px;
+    margin: 0;
+
+   
+}
+.middle-container
+{
+margin-bottom: 6%;
+   margin-top: -10%;
+}
+.bottom-container
+{
+   background-color:#66BFBF;
+    padding-top: 2%;
+    padding-bottom: 3%;
+    color: #11999E;
+  
+   
+    
+}
+a{
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 500;
+    font-size: 1.15rem;
+    text-decoration: none;
+    font-weight: bolder;
+
+}
+a:hover
+{
+    color: #EAF6F6;
+}
+
+#profilePic
+{
+   
+}
+.programIcon
+{
+  float:left;
+  margin-right: 30px;
+}
+.androidIcon
+{
+ float:right;
+ margin-left: 30px;
+ 
+
+}
+/* .skill-row:hover
+{
+    
+    background-color: #a2fcfc;
+    /* width: 50%; */
+    /* height: 20%; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 15px;
+} */
+#mountain
+{
+    width: 100%;
+    margin: -10%;
+}
+.skill-row
+{
+
+    
+    width:40%;
+    margin: 5% auto 8% auto;
+    text-align: left;
+    padding-left: 1%;
+    line-height: 2;
+    
+     
+}
+
+
+.btn
+{
+    background-color: #11999E;
+    padding: 1%;
+    border-radius: 8px;
+    color: white;
+    text-decoration: none;
+
+    
+    
+}
+.hrLine
+{
+    margin: 6% auto 5% auto;
+    border-color: #d4e7e7;
+    border-width: 10px;
+    width: 5%;
+    border-top-style:dotted;
+border-bottom-style: none;
+border-left-style: none;
+border-right-style: none;
+}
+
+
+/* 
+.AndroDesc
+{
+ clear: right;/* clear is like anti float*/
+ /*
+}
+
+.ProgDesc
+{
+clear:left;
+} */
+
+.ProgDesc
+{
+    color: #40514E;
+}
+
+.AndroDesc
+{
+    color: #40514E;
+}
